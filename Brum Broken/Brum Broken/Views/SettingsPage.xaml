@@ -7,7 +7,7 @@
     Style="{StaticResource PageStyle}"
     xmlns:helper="using:Brum_Broken.Helpers"
     xmlns:xaml="using:Windows.UI.Xaml"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Width="500" Height="600" RequestedTheme="Light">
     <Page.Resources>
         <helper:EnumToBooleanConverter x:Key="EnumToBooleanConverter" EnumType="ElementTheme" />
     </Page.Resources>
@@ -54,14 +54,12 @@
                     </RadioButton>
                 </StackPanel>
             </StackPanel>
-
             <TextBlock
                     x:Uid="Settings_About"
                     Style="{ThemeResource SubtitleTextBlockStyle}"/>
-
             <StackPanel Margin="{StaticResource XSmallTopMargin}">
                 <TextBlock
-                    Text="{x:Bind VersionDescription, Mode=OneWay}"
+                    Text="{x:Bind Mode=OneWay, Path=VersionDescription}"
                     Style="{ThemeResource BodyTextBlockStyle}" />
                 <TextBlock
                     x:Uid="Settings_AboutDescription"

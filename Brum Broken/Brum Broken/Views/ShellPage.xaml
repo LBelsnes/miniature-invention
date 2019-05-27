@@ -8,17 +8,17 @@
     xmlns:helpers="using:Brum_Broken.Helpers"
     xmlns:views="using:Brum_Broken.Views"
     Loaded="OnLoaded"
-    mc:Ignorable="d">
+    mc:Ignorable="d" Width="500" Height="600">
 
     <winui:NavigationView
         x:Name="navigationView"
-        IsBackButtonVisible="Visible"
+        IsBackButtonVisible="Collapsed"
         IsBackEnabled="{x:Bind IsBackEnabled, Mode=OneWay}"
         SelectedItem="{x:Bind Selected, Mode=OneWay}"
         ItemInvoked="OnItemInvoked"
         IsSettingsVisible="True"
         PaneDisplayMode="Top"
-        Background="{ThemeResource SystemControlBackgroundAltHighBrush}">
+        Background="{ThemeResource SystemControlBackgroundAltHighBrush}" RequestedTheme="Light">
         <winui:NavigationView.MenuItems>
             <!--
             TODO WTS: Change the symbols for each item as appropriate for your app
