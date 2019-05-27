@@ -54,14 +54,12 @@
                     </RadioButton>
                 </StackPanel>
             </StackPanel>
-
             <TextBlock
                     x:Uid="Settings_About"
                     Style="{ThemeResource SubtitleTextBlockStyle}"/>
-
             <StackPanel Margin="{StaticResource XSmallTopMargin}">
                 <TextBlock x:ConnectionId='3'
-                                                                   
+                                                                        
                     Style="{ThemeResource BodyTextBlockStyle}" />
                 <TextBlock
                     x:Uid="Settings_AboutDescription"

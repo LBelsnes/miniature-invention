@@ -65,6 +65,7 @@
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension">
       <RootProperty Name="Mode" />
+      <RootProperty Name="Path" />
       <RootProperty Name="Converter" />
       <RootProperty Name="ConverterParameter" />
     </RootType>
