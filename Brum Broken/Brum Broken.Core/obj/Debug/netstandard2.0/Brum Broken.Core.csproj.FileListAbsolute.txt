@@ -1,0 +1,3 @@
+C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken.Core\obj\Debug\netstandard2.0\Brum Broken.Core.csproj.CoreCompileInputs.cache
+C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken.Core\obj\Debug\netstandard2.0\Brum Broken.Core.AssemblyInfoInputs.cache
+C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken.Core\obj\Debug\netstandard2.0\Brum Broken.Core.AssemblyInfo.cs
