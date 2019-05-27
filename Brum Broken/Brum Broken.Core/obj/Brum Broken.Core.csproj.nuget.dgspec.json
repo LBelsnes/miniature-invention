@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {}
+    "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {
+    "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj",
+        "projectUniqueName": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj",
         "projectName": "Brum Broken.Core",
-        "projectPath": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj",
+        "projectPath": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj",
         "packagesPath": "C:\\Users\\lars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\obj\\",
+        "outputPath": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8728,11 +8728,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken\\Brum Broken.csproj",
+      "projectUniqueName": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken\\Brum Broken.csproj",
       "projectName": "Brum Broken",
-      "projectPath": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken\\Brum Broken.csproj",
+      "projectPath": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken\\Brum Broken.csproj",
       "packagesPath": "C:\\Users\\lars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken\\obj\\",
+      "outputPath": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8752,8 +8752,8 @@
       "frameworks": {
         "uap10.0.17134": {
           "projectReferences": {
-            "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {
-              "projectPath": "C:\\Users\\lars\\Source\\Repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj"
+            "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj": {
+              "projectPath": "C:\\Users\\lars\\source\\repos\\miniature-invention\\Brum Broken\\Brum Broken.Core\\Brum Broken.Core.csproj"
             }
           }
         }
