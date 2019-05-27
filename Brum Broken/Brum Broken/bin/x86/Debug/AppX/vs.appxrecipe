@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:32:06.965</Modified>
+      <Modified>2019-05-27T16:18:34.968</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.exe">
       <PackagePath>entrypoint\Brum_Broken.exe</PackagePath>
-      <Modified>2019-05-27T14:32:06.313</Modified>
+      <Modified>2019-05-27T16:16:59.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\.nuget\packages\microsoft.toolkit.uwp.notifications\5.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.Notifications.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
@@ -66,9 +66,9 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-05-27T13:48:30.755</Modified>
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\bmw.png">
+      <PackagePath>Assets\bmw.png</PackagePath>
+      <Modified>2019-05-27T16:06:18.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -104,49 +104,53 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-05-27T13:48:30.745</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2019-05-27T13:48:30.755</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.xr.xml">
       <PackagePath>Brum_Broken.xr.xml</PackagePath>
-      <Modified>2019-05-27T14:31:27.667</Modified>
+      <Modified>2019-05-27T16:12:42.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.107</Modified>
+      <Modified>2019-05-27T16:18:34.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.106</Modified>
+      <Modified>2019-05-27T16:18:34.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.106</Modified>
+      <Modified>2019-05-27T16:18:34.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.106</Modified>
+      <Modified>2019-05-27T16:18:34.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.107</Modified>
+      <Modified>2019-05-27T16:18:34.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.107</Modified>
+      <Modified>2019-05-27T16:18:34.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DashboardPage.xbf">
       <PackagePath>Views\DashboardPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.107</Modified>
+      <Modified>2019-05-27T16:18:34.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DowntimePage.xbf">
       <PackagePath>Views\DowntimePage.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.108</Modified>
+      <Modified>2019-05-27T16:18:34.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.108</Modified>
+      <Modified>2019-05-27T16:18:34.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:32:06.108</Modified>
+      <Modified>2019-05-27T16:18:34.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -162,11 +166,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-05-27T14:31:28.016</Modified>
+      <Modified>2019-05-27T16:18:34.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\Brum_Broken.exe">
       <PackagePath>Brum_Broken.exe</PackagePath>
-      <Modified>2019-05-27T14:32:06.959</Modified>
+      <Modified>2019-05-27T16:18:34.963</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

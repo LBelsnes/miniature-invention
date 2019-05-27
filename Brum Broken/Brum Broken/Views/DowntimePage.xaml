@@ -8,5 +8,7 @@
     mc:Ignorable="d" Width="500" Height="600" RequestedTheme="Light">
     <Grid
         x:Name="ContentArea"
-        Margin="{StaticResource MediumLeftRightMargin}"/>
+        Margin="{StaticResource MediumLeftRightMargin}">
+        <ComboBox Margin="0,76,0,0" Width="233" HorizontalAlignment="Center" PlaceholderText="Update Mode"/>
+    </Grid>
 </Page>

@@ -130,7 +130,7 @@
     <comment>Navigation view item name for Dashboard</comment>
   </data>
   <data name="Shell_Downtime.Content" xml:space="preserve">
-    <value>Downtime</value>
+    <value>Record</value>
     <comment>Navigation view item name for Downtime</comment>
   </data>
   <data name="ExceptionSettingsStorageExtensionsFileNameIsNullOrEmpty" xml:space="preserve">

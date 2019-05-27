@@ -5,10 +5,12 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Style="{StaticResource PageStyle}"
-    mc:Ignorable="d" Width="500" Height="600" RequestedTheme="Light">
+    mc:Ignorable="d" Width="500" Height="600" RequestedTheme="Default">
     <Grid
         x:Name="ContentArea"
         Margin="{StaticResource MediumLeftRightMargin}">
-        <TextBlock HorizontalAlignment="Left" Margin="23,27,0,0" Text="Cock!" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Image HorizontalAlignment="Center" Height="152" Margin="0,10,0,0" VerticalAlignment="Top" Width="152" Source="/Assets/bmw.png"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,158,0,0" Text="Henry" TextWrapping="Wrap" VerticalAlignment="Top" Width="446" FontSize="36" FontWeight="Bold" FontStyle="Normal" TextAlignment="Center"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,209,0,0" Text="BMW E39 520i SE" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" TextAlignment="Center" FontSize="22"/>
     </Grid>
 </Page>

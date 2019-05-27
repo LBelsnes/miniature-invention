@@ -49,8 +49,8 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\bmw.png">
+      <PackagePath>Assets\bmw.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -78,6 +78,9 @@
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.xr.xml">
       <PackagePath>Brum_Broken.xr.xml</PackagePath>
