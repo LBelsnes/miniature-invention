@@ -1,1 +1,1 @@
-C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Brum Broken.csproj;x86
+C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Brum Broken.csproj;x86

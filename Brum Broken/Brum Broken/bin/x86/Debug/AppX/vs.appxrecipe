@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MR-FACE</Machine>
+    <Machine>DORIS</Machine>
     <WindowsUser>lars</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>A90AAD69-40EF-47BB-8B5F-587C7B243F60</PackageIdentityName>
     <PackageIdentityPublisher>CN=lars</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>47ADD4BA80A06171D0D13FC3AACD4605DCC1732638D0C97DB74B3711BE561571</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C0EAD2A8DF5577306541E66A9EB4AE19FE4BDF1337F5790933F6E93D627CF40D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>A90AAD69-40EF-47BB-8B5F-587C7B243F60_1.0.0.0_x86__yj3n2akhacazm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>A90AAD69-40EF-47BB-8B5F-587C7B243F60_yj3n2akhacazm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>A90AAD69-40EF-47BB-8B5F-587C7B243F60</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:27:00.784</Modified>
+      <Modified>2019-05-27T14:32:06.965</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.exe">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.exe">
       <PackagePath>entrypoint\Brum_Broken.exe</PackagePath>
-      <Modified>2019-05-27T14:26:56.131</Modified>
+      <Modified>2019-05-27T14:32:06.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lars\.nuget\packages\microsoft.toolkit.uwp.notifications\5.1.1\lib\uap10.0\Microsoft.Toolkit.Uwp.Notifications.dll">
       <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
@@ -58,95 +58,95 @@
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2019-03-12T21:22:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken.Core\bin\Debug\netstandard2.0\Brum Broken.Core.dll">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken.Core\bin\Debug\netstandard2.0\Brum Broken.Core.dll">
       <PackagePath>Brum Broken.Core.dll</PackagePath>
-      <Modified>2019-05-27T14:26:50.206</Modified>
+      <Modified>2019-05-27T14:30:57.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-23T00:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2019-05-27T14:25:50.610</Modified>
+      <Modified>2019-05-27T13:48:30.755</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2019-05-27T14:25:50.577</Modified>
+      <Modified>2019-05-27T13:48:30.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.579</Modified>
+      <Modified>2019-05-27T13:48:30.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.581</Modified>
+      <Modified>2019-05-27T13:48:30.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.583</Modified>
+      <Modified>2019-05-27T13:48:30.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.585</Modified>
+      <Modified>2019-05-27T13:48:30.742</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.587</Modified>
+      <Modified>2019-05-27T13:48:30.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-27T14:25:50.589</Modified>
+      <Modified>2019-05-27T13:48:30.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.xr.xml">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Brum_Broken.xr.xml">
       <PackagePath>Brum_Broken.xr.xml</PackagePath>
-      <Modified>2019-05-27T14:26:55.462</Modified>
+      <Modified>2019-05-27T14:31:27.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.533</Modified>
+      <Modified>2019-05-27T14:32:06.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\Page.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.530</Modified>
+      <Modified>2019-05-27T14:32:06.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Colors.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.531</Modified>
+      <Modified>2019-05-27T14:32:06.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_FontSizes.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.531</Modified>
+      <Modified>2019-05-27T14:32:06.106</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Thickness.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.532</Modified>
+      <Modified>2019-05-27T14:32:06.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\TextBlock.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.533</Modified>
+      <Modified>2019-05-27T14:32:06.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DashboardPage.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DashboardPage.xbf">
       <PackagePath>Views\DashboardPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.534</Modified>
+      <Modified>2019-05-27T14:32:06.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DowntimePage.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\DowntimePage.xbf">
       <PackagePath>Views\DowntimePage.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.535</Modified>
+      <Modified>2019-05-27T14:32:06.108</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.535</Modified>
+      <Modified>2019-05-27T14:32:06.108</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\ShellPage.xbf">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2019-05-27T14:26:55.536</Modified>
+      <Modified>2019-05-27T14:32:06.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -160,13 +160,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2018-12-18T22:06:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-05-27T14:26:56.928</Modified>
+      <Modified>2019-05-27T14:31:28.016</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lars\Source\Repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\Brum_Broken.exe">
+    <AppxPackagedFile Include="C:\Users\lars\source\repos\miniature-invention\Brum Broken\Brum Broken\bin\x86\Debug\Core\Brum_Broken.exe">
       <PackagePath>Brum_Broken.exe</PackagePath>
-      <Modified>2019-05-27T14:27:00.770</Modified>
+      <Modified>2019-05-27T14:32:06.959</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -235,36 +235,36 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27508.1</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27508.1</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27508.1</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.27508.1</Version>
+      <Version>14.0.27323.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27508.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27323.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

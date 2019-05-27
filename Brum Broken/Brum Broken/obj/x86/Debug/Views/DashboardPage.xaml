@@ -8,6 +8,8 @@
     mc:Ignorable="d" Width="500" Height="600" RequestedTheme="Light">
     <Grid x:ConnectionId='2'
         x:Name="ContentArea"
-        Margin="{StaticResource MediumLeftRightMargin}"/>
+        Margin="{StaticResource MediumLeftRightMargin}">
+        <TextBlock HorizontalAlignment="Left" Margin="105,106,0,0" Text="Cock!" TextWrapping="Wrap" VerticalAlignment="Top"/>
+    </Grid>
 </Page>
 

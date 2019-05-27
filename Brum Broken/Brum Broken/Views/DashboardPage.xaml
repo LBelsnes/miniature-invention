@@ -9,6 +9,6 @@
     <Grid
         x:Name="ContentArea"
         Margin="{StaticResource MediumLeftRightMargin}">
-        <TextBlock HorizontalAlignment="Left" Margin="190,271,0,0" Text="Cock!" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="23,27,0,0" Text="Cock!" TextWrapping="Wrap" VerticalAlignment="Top"/>
     </Grid>
 </Page>
